@@ -30,6 +30,7 @@
  Add script in html page
 
 ```
+     For rendering all select options to custom select with a class name "cselect" inside a body tag;
       <script>
        $(function() {
             $("body").customselectOpt({
@@ -39,6 +40,20 @@
             });
         });
        </script> 
+```
+
+```
+  For rendering all select options to custom select with a class name "cselect" inside a selector tag [ *selector can be a id or a class ];
+      <script>
+       $(function() {
+            $("selector").customselectOpt({
+                bgcolor: 'red',
+                txtcolor: 'white',
+                selecttext: ' '
+            });
+        });
+       </script> 
+       
 ```
 
 Attributes
