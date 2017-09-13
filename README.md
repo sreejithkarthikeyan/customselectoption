@@ -36,7 +36,7 @@
             $("body").customselectOpt({
                 bgcolor: 'red',
                 txtcolor: 'white',
-                selecttext: ' '
+              
             });
         });
        </script> 
@@ -49,7 +49,7 @@
             $("selector").customselectOpt({
                 bgcolor: 'red',
                 txtcolor: 'white',
-                selecttext: ' '
+               
             });
         });
        </script> 
