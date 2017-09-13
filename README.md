@@ -25,6 +25,8 @@
 <option value="Diamond"> Diamond </option>
 </select>
 ```
+ Add class name as "cselect" to the select tag , This is important to create customselectoption.
+ If u dont need custom select , just remove the calss name "cselect" from the select tag.
  Add script in html page
 
 ```
