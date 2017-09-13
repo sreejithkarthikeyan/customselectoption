@@ -60,7 +60,7 @@ External Files
 ### Download Links 
 
 ##### Jquery [Download](http://jquery.com/download/).
-## [Download Demo](https://github.com/sreejithkarthikeyan/maskArea/tree/master/demo)
+## [Download Demo](https://github.com/sreejithkarthikeyan/customselectoption/demo)
 
 #### License
 
