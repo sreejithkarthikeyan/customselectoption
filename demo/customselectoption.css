@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	 box-sizing: border-box;
+ }
+.selectopt{
+    font-size:17px!important;
+    font-weight:lighter
+}
+.selectopt select {
+    position: relative;
+    width: 200px;
+    padding: 7px;
+}
+
+.selectopt option {
+    display: none;
+}
+
+.selectopt ul {
+    position: absolute!important;
+    z-index: 1000;
+    display: block;
+    padding: 0;
+    width: 200px!important;
+}
+
+.selectopt li {
+    display: block;
+    text-decoration: none;
+    list-style-type: none;
+    border: 1px solid #ccc;
+    padding: 7px;
+    width: 200px!important;
+    cursor: pointer;
+}
+
+.selectopt .ul li:last-child {
+    background-color: white!important;
+    color:#000!important;
+}
+
+.selectopt input {
+    width: 100%;
+    height: 30px;
+    outline: none;
+        
+}
+
+.selectopt .sbtn {
+    margin-top: 6px;
+    font-size:17px!important;
+    background-color: black;
+    color: white;
+    padding:0!important
+}
+
+.selectopt textarea:focus,
+.selectopt input:focus {
+    outline: none;
+}
+
+.selectopt input.middle:focus {
+    outline-width: 0;
+}
