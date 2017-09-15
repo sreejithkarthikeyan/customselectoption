@@ -176,17 +176,4 @@
     }
 })(jQuery);
 
-/*
- * customselectoption v 1.0
- * http://pointslabs.co/
- * MIT licensed
- * Copyright (C) 2016 Sreejith K S, http://pointslabs.co/
- * sreeksleo@gmail.com
- * A simple jQuery plugin that allows you to add a Custom select which can add new option value
- */
-/*
-$( ".inner" ).wrap(function() {
-  return "<div class='" + $( this ).text() + "'></div>";
-});
 
-*/
